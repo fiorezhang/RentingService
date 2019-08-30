@@ -1,1 +1,0 @@
-InputDetect: Detect new files in dedicated folder(including subfolders) by comparing with recorded file list. Update when current new files handled. 
